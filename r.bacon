@@ -1,5 +1,6 @@
 Irig r.bacon settings
 
+Bacon('Irig.csv', d.by=5, thick=20, ssize=8000)
 40 #d.min
 1120 #d.max
 5 #d.by
@@ -31,6 +32,7 @@ yr#age.unit
 
 Nosak r.bacon settings
 
+Bacon('Nosak.csv', d.by=5, thick=20, ssize=8000)
 185 #d.min
 2320 #d.max
 5 #d.by
@@ -62,6 +64,7 @@ yr#age.unit
 
 Stari Slankamen r.bacon settings
 
+Bacon('Stari_Slankamen.csv', d.by=5, thick=20, ssize=8000)
 51 #d.min
 1274 #d.max
 5 #d.by
@@ -93,6 +96,7 @@ yr#age.unit
 
 Crvenka r.bacon settings
 
+Bacon('Crvenka.csv', d.by=5, thick=20, ssize=8000)
 30 #d.min
 1130 #d.max
 5 #d.by
